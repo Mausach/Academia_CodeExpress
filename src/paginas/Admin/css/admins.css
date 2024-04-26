@@ -1,0 +1,35 @@
+.text-color-slogans{
+    font-size: 3em; /* Ajusta el tamaño del texto según tus preferencias */
+    color: #ef7f1a; /* Color de texto principal (blanco en este caso) */
+    text-shadow: 0 0 10px rgba(243, 93, 6, 0.8);
+    /* Sombras para el efecto de neon */
+  
+    background: linear-gradient(90deg, #ef7f1a, rgba(252, 78, 9, 0.8)); /* Gradiente de colores (ajusta los colores según tus preferencias) */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .text-color-slogans2{
+    font-size: 3em; /* Ajusta el tamaño del texto según tus preferencias */
+    color: #ec1010; /* Color de texto principal (blanco en este caso) */
+    text-shadow: 0 0 10px rgba(241, 4, 4, 0.8);
+    /* Sombras para el efecto de neon */
+  
+    background: linear-gradient(90deg, #e61109, rgba(252, 78, 9, 0.8)); /* Gradiente de colores (ajusta los colores según tus preferencias) */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+
+  .text-color-slogans3{
+    font-size: 3em; /* Ajusta el tamaño del texto según tus preferencias */
+    color: #39ec0c; /* Color de texto principal (blanco en este caso) */
+    text-shadow: 0 0 10px rgba(143, 247, 7, 0.8);
+    /* Sombras para el efecto de neon */
+  
+    background: linear-gradient(90deg, #21e407, rgba(86, 252, 9, 0.8)); /* Gradiente de colores (ajusta los colores según tus preferencias) */
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+  }
