@@ -1,4 +1,4 @@
-# CodeExpress  - SPA (Deployado y Responsivo)
+# CodeExpress  - SPA (En desarrollo)
 
 <p align="center">
   <img src="./src/assets/img/Codeexpress1.jpg"/>
